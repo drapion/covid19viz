@@ -13,6 +13,11 @@ New visualization of COVID-19 in Michigan
 4. Go to c:/python27, run python get-pip.py
 5. Add path c:/python27/scripts to system path of Windows
 6. Install libraries by 
+
      pip install opencv-python
+     
+     pip install pandas
+     
      pip install matplotlib
+     
      pip install lxml
