@@ -12,7 +12,7 @@ New visualization of COVID-19 in Michigan
 3. To install pip, download get-pip.py by following this link: https://bootstrap.pypa.io/get-pip.py. Save to c:/python27
 4. Go to c:/python27, run python get-pip.py
 5. Add path c:/python27/scripts to system path of Windows
-6. Install libraries by 
+6. Run cmd.exe to enter command window, install libraries by 
 
      pip install opencv-python
      
@@ -21,3 +21,5 @@ New visualization of COVID-19 in Michigan
      pip install matplotlib
      
      pip install lxml
+
+7. Run python virusviz18.py
